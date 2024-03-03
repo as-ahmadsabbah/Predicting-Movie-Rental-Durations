@@ -27,3 +27,5 @@ The code provided in `dvd_rental_prediction.ipynb` consists of the following ste
 4. Model Building: Implementing regression models, including Lasso regression and Random Forest regression.
 5. Model Evaluation: Evaluating the performance of the models using mean squared error (MSE).
 6. Conclusion: Summarizing the findings and recommending the best-performing model.
+   ![image](https://github.com/as-ahmadsabbah/Predicting-Movie-Rental-Durations/assets/107211206/51487f14-8682-4e80-92f6-0e58a472d4c5)
+
